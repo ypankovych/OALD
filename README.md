@@ -13,3 +13,10 @@ The Oxford Advanced American Dictionary (OAAD) system represents American Englis
 * [Pronunciation: English and Academic English Dictionaries](https://www.oxfordlearnersdictionaries.com/about/english/pronunciation_english)
 
 * [Pronunciation: American English Dictionary](https://www.oxfordlearnersdictionaries.com/about/american_english/pronunciation_american_english)
+
+## Usage Examples
+
+_@oxlang_bot accent [uk or us] word [e.g world]_ 
+
+* @oxlang_bot uk world
+* @oxlang_bot us strawberry
